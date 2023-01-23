@@ -10,5 +10,6 @@
     <h3>Version: 3.0</h3>
     <hr>
     <p>Poll SCM Test</p>
+    <p>Poll SCM Test 2</p>
 </body>
 </html>
